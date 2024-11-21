@@ -1,5 +1,5 @@
 # quizXL
-quizXL is a macro-enabled Microsoft Excel application that can generate and export Classic Quizzes (QTI version 1.2 format ZIP-file), and both learning outcomes (.CSV), to the CANVAS LMS digital learning platform
+quizXL is a macro-enabled Microsoft Excel application that can generate [Classic Quizzes](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-quiz-with-individual-questions/ta-p/1248) (QTI version 1.2 format ZIP-file), and [learning outcomes (.CSV)](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-outcomes-for-a-course/ta-p/702), to the CANVAS LMS digital learning platform
 
 ## Features
 - Full support for all 9 question types in CANVAS Classic Quizzes that have automatic grading.
