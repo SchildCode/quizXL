@@ -3,7 +3,7 @@ quizXL is a macro-enabled Microsoft Excel application that can generate and expo
 
 ##Features##
 - Full support for all 9 question types in CANVAS Classic Quizzes that have automatic grading.
-  - **true_false_question**: called '[True/False][https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-True-False-quiz-question/ta-p/927]' in CANVAS
+  - **true_false_question**: called '[True/False](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-True-False-quiz-question/ta-p/927)' in CANVAS
   - **short_answer_question**: called '[Fill in the blank][https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Fill-in-the-Blank-quiz-question/ta-p/889]' in CANVAS
   - **multiple_choice_question**: called '[Multiple choice][https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Multiple-Choice-quiz-question/ta-p/682]' in CANVAS
   - **multiple_answers_question**: called '[Multiple answers][https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Multiple-Answers-quiz-question/ta-p/924]' in CANVAS
