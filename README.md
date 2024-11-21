@@ -6,7 +6,7 @@ quizXL is a macro-enabled Microsoft Excel application that can generate and expo
   - **true_false_question**: called '[True/False](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-True-False-quiz-question/ta-p/927)' in CANVAS
   - **short_answer_question**: called '[Fill in the blank](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Fill-in-the-Blank-quiz-question/ta-p/889)' in CANVAS
   - **multiple_choice_question**: called '[Multiple choice](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Multiple-Choice-quiz-question/ta-p/682)' in CANVAS
-  - **multiple_answers_question**: called '[Multiple answers](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Multiple-Answers-quiz-question/ta-p/924]' in CANVAS
+  - **multiple_answers_question**: called '[Multiple answers](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Multiple-Answers-quiz-question/ta-p/924)' in CANVAS
   - **fill_in_multiple_blanks_question**: called '[Fill in multiple blanks](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Fill-in-Multiple-Blanks-quiz-question/ta-p/923)' in CANVAS
   - **multiple_dropdowns_question**: called '[Multiple dropdowns](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Multiple-Dropdown-quiz-question/ta-p/916)' in CANVAS
   - **matching_question**: called '[Matching](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Matching-quiz-question/ta-p/918)' in CANVAS
