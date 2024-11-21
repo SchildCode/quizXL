@@ -12,7 +12,8 @@ quizXL is a macro-enabled Microsoft Excel application that can generate and expo
   - **matching_question**: called '[Matching](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Matching-quiz-question/ta-p/918)' in CANVAS
   - **numerical_question**: called '[Numerical answer](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Numerical-Answer-quiz-question/ta-p/919)' in CANVAS
   - **calculated_question**: called '[Formula question](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-create-a-Formula-quiz-question-with-a-single-variable/ta-p/920)' in CANVAS
-- Enables you to rapildy build a large pool of quiz questions. Each worksheet is a different quiz. Export to CANVAS by pressing CTRL+E (Export). The macro checks your input for errors, then exports a QTI-format ZIP file (QTI version 1.2 for Classic Quizzes).
+- Enables you to rapildy build a large pool of quiz questions. Each worksheet is a different quiz.
+- Export to CANVAS by pressing CTRL+E (Export). The macro checks your input for errors, then exports a QTI-format ZIP file (QTI version 1.2 for Classic Quizzes). [Here are instruction on how to import the QTI-format ZIP-file into CANVAS](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-quizzes-from-QTI-packages/ta-p/1046)
 - Supports quiz groups. Each group can cover specific learning goals. You can therefore build randomized quizzes with large pool of questions in each group. This ensures that each repetition of the quiz covers all learning goals, even though it is randomized.
 - Supports inclusion of bitmap images (all file formats that web browsers support, e.g. jpg, png) in the question. The image is shown centre-aligned below the question text.
 - Supports LaTeX maths equations, both in the question text and feedback text (when the question is answered wrongly).
