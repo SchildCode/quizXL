@@ -20,4 +20,4 @@ quizXL is a macro-enabled Microsoft Excel application that can generate and expo
 - You can exploit automated quiz generation in two alternative ways:
   - You can edit quizzes manually in spreadsheets, using copy-paste to generate large pools of questions, and optionally exploit Excel features such as cell formulae and referencing, e.g. =RND(), and paramtric text, e.g. ="What is " & ROW() & "×10 ?"
   - ...or you can write VBA code to automatically generate randomized quiz questions! See subroutine 'generate' as an example, which generates 100 questions. You can edit the VBA source code to suit your needs.
-- A key advantage over CANVAS is that you can now use complex equations (all Excel worksheet functions) in question type Formula Question 'calculated_question'. CANVAS 
+- An advantage of quizXL over editing a quiz in CANVAS is that you can have more complex equations (all Excel worksheet functions) in question type Formula Question '**calculated_question**'. CANVAS has limited [helper functions](https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Formula-Quiz-Question-Helper-Functions/ta-p/387062).
